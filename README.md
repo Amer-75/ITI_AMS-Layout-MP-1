@@ -1,9 +1,8 @@
-# Mini Project 1
+# VLSI Mini Project 1 – Custom Layout and Parasitic Analysis
 
-## 📁 Project Attachments
-
-Link to project resources:  
-[Google Drive Folder](https://drive.google.com/drive/folders/1Md6S01SeZIpCwv2rbTy2YC9yzNttvUpM?usp=sharing)
+This project was completed as part of the ITI Analog Mixed Signal (AMS) and Layout Training Program. It demonstrates full custom layout design and parasitic analysis for core digital cells: INVERTER 2X, NAND 2X, and NAND 4X.
+The design includes manual floorplanning, hierarchical parasitic extraction (resistance, capacitance, and delay), and top-level layout integration up to Metal 3, with fully abuttable custom cells.
+The project was implemented using the TSMC 65nm PDK, with Cadence Virtuoso for layout and design, and Calibre for physical verification and parasitic extraction (PEX).
 
 ---
 
